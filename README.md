@@ -17,6 +17,9 @@ This is a command-line-based Betting Management System built with python and SQL
 ## Slides link
 -> https://docs.google.com/presentation/d/1187y3SncWMn6FW0XxF2miajC4NQyftHCTFYVR3UWZAc/edit#slide=id.g320a54a2eb4_0_442
 
+## Recording link
+https://youtu.be/l-vBzYh1GHM
+
 ## Technologies Used
 * Python
 * SQLAlchemy
